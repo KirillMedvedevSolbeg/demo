@@ -5,9 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class PetProjectApplication {
-    //delete
+
 	public static void main(String[] args) {
-		SpringApplication.run(PetProjectApplication.class, args);
-	}
+        SpringApplication.run(PetProjectApplication.class, args);
+    }
 
 }
